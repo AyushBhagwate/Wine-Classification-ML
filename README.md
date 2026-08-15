@@ -1,3 +1,5 @@
+![Image_Alt](https://github.com/AyushBhagwate/Wine-Classification-ML/blob/e192ad0bca0cec0a1a5c9c472eae3bd32e3669be/Wine-Classification-ML_Banner.png)
+
 # 🍷 Wine Classification using Random Forest
 
 ## 📌 Overview
